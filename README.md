@@ -1,2 +1,3 @@
-# scotty-stack
+# Scotty Stack
+
 A ScottyLabs full stack template
